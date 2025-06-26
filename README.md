@@ -82,4 +82,4 @@ Os `articles` foram organizados lado a lado com `display: flex`.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git@github.com:CarlaMSilva/Layout_com_Flexbox.git
